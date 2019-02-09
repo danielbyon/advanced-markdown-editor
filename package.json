@@ -1,6 +1,6 @@
 {
-  "name": "sn-advanced-markdown-editor",
-  "version": "1.2.6",
+  "name": "net.obicloud.sn-advanced-markdown-editor",
+  "version": "1.2.6.0",
   "description": "",
   "main": "dist/dist.js",
   "author": "",
@@ -24,5 +24,9 @@
     "grunt-newer": "^1.2.0",
     "sn-components-api": "1.2.3",
     "sn-stylekit": "2.0.13"
-  }
+  },
+  "content_type": "SN|Component",
+  "area": "editor-editor",
+  "url": "https://github.com/danielbyon/advanced-markdown-editor",
+  "download_url": "https://github.com/danielbyon/advanced-markdown-editor/archive/1.2.6.0.zip"
 }
